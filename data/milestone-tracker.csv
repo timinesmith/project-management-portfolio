@@ -1,0 +1,9 @@
+milestone_id,workstream,milestone,owner_role,planned_finish,status,completion_percent,dependency,evidence_of_completion
+M-001,Governance,Approve program charter,Program sponsor,Week 2,Complete,100,None,Signed charter
+M-002,Planning,Publish deployment calendar,Program manager,Week 3,Complete,100,Charter,Approved calendar
+M-003,Staffing,Confirm field supervisor roster,Field supervisor,Week 3,Complete,100,Availability survey,Roster
+M-004,Stakeholder,Confirm first location group,Stakeholder lead,Week 4,In progress,75,Partner availability,Confirmation log
+M-005,Operations,Complete materials readiness check,Operations lead,Week 4,Not started,0,Inventory,Checklist
+M-006,Reporting,Issue first weekly dashboard,Reporting lead,Week 5,Not started,0,Field logs,Dashboard
+M-007,Quality,Review feedback coding sample,Program manager,Week 5,Not started,0,Dashboard,QA note
+M-008,Closeout,Publish lessons-learned summary,Program manager,Week 8,Not started,0,All workstreams,Closeout memo

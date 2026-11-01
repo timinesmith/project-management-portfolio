@@ -1,0 +1,7 @@
+risk_id,risk,cause,probability_1_to_5,impact_1_to_5,score,owner_role,mitigation,contingency,review_cadence
+R-001,Low public turnout,Weather or competing events,3,3,9,Field supervisor,Promote through local partners and confirm site visibility,Move activity indoors or extend hours,Weekly
+R-002,Staffing shortage,Illness or schedule conflicts,3,4,12,Program manager,Maintain trained substitute pool,Consolidate locations and revise calendar,Weekly
+R-003,Material shortage, Late delivery or damage,2,4,8,Operations lead,Check inventory one week before deployment,Use approved digital materials and reserve stock,Weekly
+R-004,Stakeholder delay,Approval bottleneck,3,3,9,Stakeholder lead,Use decision log and named approver,Escalate at weekly governance meeting,Weekly
+R-005,Data quality issue,Inconsistent field coding,3,2,6,Reporting lead,Use definitions and sample QA review,Recode records before publication,Weekly
+R-006,Access restriction,Site condition or permit issue,2,5,10,Field supervisor,Confirm access 72 hours in advance,Activate alternate approved location,Before each deployment
